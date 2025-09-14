@@ -107,7 +107,7 @@ streamlit run src/app.py
 * `├─ requirements.txt`
 * `├─ LICENSE`
 * `└─ .gitignore`
- ````
+
 
 ---
 
