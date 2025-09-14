@@ -107,17 +107,14 @@ streamlit run src/app.py
 * `├─ requirements.txt`
 * `├─ LICENSE`
 * `└─ .gitignore`
-* ````
+ ````
 
 ---
 
----
+## 🖼️ Sample Visuals
 
-### 🖼️ Sample Visuals
-
-* **Monthly Transaction Volume:**📈 A line chart showing property sales activity across the year.
-* **Top Neighborhoods by Score:**🏘️ A bar chart ranking the most attractive neighborhoods.
----
+- **Monthly Transaction Volume:** 📈 A line chart showing property sales activity across the year.  
+- **Top Neighborhoods by Score:** 🏘️ A bar chart ranking the most attractive neighborhoods.  
 
 ---
 
@@ -129,14 +126,10 @@ streamlit run src/app.py
 
 ---
 
----
-
 ### 🤝 Contribution
 
 This project is open-source and portfolio-focused.
 Feel free to fork, raise issues, or submit PRs to improve.
-
----
 
 ---
 
